@@ -98,7 +98,7 @@
 
  - Google / Kakao 를 통해 로그인할 수 있다.
 
- ![image](/uploads/7dfe58fcf90e51aa1594559fced012b2/image.png)
+ <img width="800" src="assets/images/소셜로그인.png"> <br>
 
 <br>
 <br>
@@ -107,7 +107,7 @@
 
  - 설문을 기반으로 개인의 선호도에 따른 제품 조합을 추천받을 수 있다.
 
-![image2](/uploads/eeec73abc283b415627968275fb60cd0/zipzoong_recommand_3.gif)
+ <img width="800" src="assets/images/설문기반추천.gif"> <br>
 
 
 <br>
@@ -117,7 +117,8 @@
 ## 📌 - 설문 기반 추천 상세
 
  - 제품 조합 상세를 확인할 수 있다.
-![image3](/uploads/f5444fcadd8c4558491d91c8290e8b58/image1.gif)
+   
+ <img width="800" src="assets/images/설문기반추천상세.gif"> <br>
 
 
 <br>
@@ -128,7 +129,7 @@
 ## 📌 - 최저가 사이트 연동
  - 자신이 추천 받은 조합 제품의 최저가 사이트로 접속할 수 있다.
  
-![사이트이동](/uploads/5f22543e6a2fb78c85729d60bf6ea7b1/사이트이동.gif)
+ <img width="800" src="assets/images/설문기반추천.gif"> <br>
 
 <br>
 <br> 
@@ -138,7 +139,7 @@
 ## 📌 - 관심 조합 및 제품
  - 추천받은 데스크 셋업의 조합 및 제품을 저장할 수 있다.
 
-![관심조합제품](/uploads/3251c0d43d85b0ea3b72f3981cbb8d16/관심조합제품.gif)
+ <img width="800" src="assets/images/관심조합및제품.gif"> <br>
 
   
 <br>
@@ -147,8 +148,8 @@
   
 ## 📌 - 게시판
  - 게시판에 게시글을 작성할 수 있고 글 내부에 추천받은 조합을 추가할 수 있다. 
-   
-![게시판](/uploads/239ad9dba8d8ea0b39382afaececa26a/게시판.gif)
+    
+ <img width="800" src="assets/images/게시판.gif"> <br>
 
   
 <br>
@@ -169,18 +170,16 @@
     <tr>
      <td align="center">
         <a href="">
-            <img src="https://github.com/zsa332/Algorithms/assets/78728865/cc888bb1-ae82-49d4-85fc-277697482083" width="100px;" alt="유수안"/>
-            <br />
+            <img width="150" src="assets/members/수안.png"> <br>
             <sub><b>유수안</b></sub>
         </a>
         <br />
-        <div>INFRA, BE</div>
+        <div>팀장, INFRA, BE</div>
       </td>
       <br/>
       <td align="center">
         <a href="">
-            <img src="https://github.com/zsa332/Algorithms/assets/78728865/2a1d013c-71c1-4013-b9ed-e9de0e964e86" width="100px;" alt="홍지은"/>
-            <br />
+            <img width="150" src="assets/members/지은.png"> <br>
             <sub><b>홍지은</b></sub>
         </a>
         <br />
@@ -189,8 +188,7 @@
       <br/>
       <td align="center">
         <a href="https://github.com/zsa332">
-            <img src="https://github.com/zsa332/Algorithms/assets/78728865/58e66200-3537-491c-a0f0-5ec7adc11670" width="100px;" alt="서성원"/>
-            <br />
+            <img width="150" src="assets/members/성원.png"> <br>
             <sub><b>서성원</b></sub>
         </a>
         <br />
@@ -200,9 +198,7 @@
     <tr>
       <td align="center">
         <a href="">
-          <img src="https://github.com/zsa332/Algorithms/assets/78728865/f4805720-40bc-4b6b-a8d4-6327ff467009"
-              width="100px;" alt="장진희" />
-          <br />
+          <img width="150" src="assets/members/진희.png"> <br>
           <sub><b>장진희</b></sub>
           </a>
           <br />
@@ -210,8 +206,7 @@
       </td>
       <td align="center">
         <a href="">
-            <img src="https://github.com/zsa332/Algorithms/assets/78728865/42bf5a5e-eef7-46b9-a143-5efd62db0cfc" width="100px;" alt="유현정"/>
-            <br />
+            <img width="150" src="assets/members/현정.png"> <br>
             <sub><b>유현정</b></sub>
         </a>
         <br />
@@ -219,8 +214,7 @@
       </td>
       <td align="center">
         <a href="">
-            <img src="https://github.com/zsa332/Algorithms/assets/78728865/bbfbd9ce-6d89-403c-afcf-f1f207888e12" width="100px;" alt="이수현"/>
-            <br />
+            <img width="150" src="assets/members/수현.png"> <br>
             <sub><b>이수현</b></sub>
         </a>
         <br />
@@ -233,24 +227,24 @@
 <br>
 
 ## ⚙ 기술 아키텍쳐
-![image](/uploads/8000576cd66ae28e5f41199eb5ca9a52/image.png)
+<img width="800" src="assets/아키텍쳐설계.png> <br>
 
 <br>
 
 ## 💎 [ERD 다이어그램](https://www.erdcloud.com/d/LhpmjPdjFc5gMy5iW)
-![image](https://github.com/zsa332/Algorithms/assets/78728865/d5bd5f5e-26c0-44e5-a485-b9d9f8326329)
+<img width="800" src="assets/ERD다이어그램.png"> <br>
 
 <br>
 
 ## 📘 [API 명세서](https://yoosue.notion.site/API-1ef45e4a2dd046eaba08050ea33b8faa?pvs=4)
-![image](https://github.com/zsa332/Algorithms/assets/78728865/ac03b641-874e-4940-944f-6c2b7243e52a)
+<img width="800" src="assets/API명세1.png"> <br>
 
-![image](https://github.com/zsa332/Algorithms/assets/78728865/9377623c-e66e-4f96-b8e3-c5a58712a1ec)
+<img width="800" src="assets/API명세2.png"> <br>
 
 <br>
 
 ## 🍏 [와이어프레임](https://www.figma.com/file/OQA4g8cBEGpWA8tUEUbaOu/Figma?type=design&mode=design&t=VRuVakN1jpVacYo4-1)
-![image](https://github.com/zsa332/Algorithms/assets/78728865/45764bbe-70ad-4cdc-8d89-7e70fe9472cd)
+<img width="800" src="assets/와이어프레임.png"> <br>
 
 
 
