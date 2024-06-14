@@ -227,7 +227,7 @@
 <br>
 
 ## ⚙ 기술 아키텍쳐
-<img width="800" src="assets/아키텍쳐설계.png> <br>
+<img width="800" src="assets/아키텍쳐설계.png"> <br>
 
 <br>
 
